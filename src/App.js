@@ -1,11 +1,12 @@
-//import logo from './logo.svg';
-import './App.css';
+import Topbar from './components/topbar/Topbar'
 
 function App() {
   return (
-    <div className='App'>
-      hello Admin Pannel
-    </div>
+    <div>
+      <Topbar />
+      
+
+      </div>
   );
 }
 
